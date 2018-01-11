@@ -5,7 +5,7 @@ import (
 	"github.com/lonnng/nano"
 	"github.com/google/uuid"
 	"github.com/lonnng/nano/session"
-	"github.com/lonnng/nano/examples/demo/tadpole/logic/protocol"
+	"./protocol"
 )
 
 type World struct {

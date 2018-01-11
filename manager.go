@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/lonnng/nano/component"
 	"github.com/lonnng/nano/session"
-	"github.com/lonnng/nano/examples/demo/tadpole/logic/protocol"
+	"./protocol"
 )
 
 type Manager struct {
